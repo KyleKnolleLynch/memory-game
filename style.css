@@ -147,6 +147,7 @@ section {
   font-weight: 700;
   color: white;
   border-radius: 15px;
+  pointer-events: none;
   z-index: 1;
 }
 
