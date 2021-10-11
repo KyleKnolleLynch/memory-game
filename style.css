@@ -140,6 +140,7 @@ section {
 
 .alert-modal {
   position: absolute;
+  top: calc(50% - 7.8rem);
   margin: auto;
   padding: 3rem 7rem;
   text-align: center;
